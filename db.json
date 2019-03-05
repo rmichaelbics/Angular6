@@ -1,0 +1,90 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Michael",
+      "contactPreference": "phone",
+      "email": "rmichaelbics@dell.com",
+      "phone": "+91 7639728044",
+      "skills": [
+        {
+          "skillName": "C#",
+          "experience": 7,
+          "proficiency": "intermidate"
+        },
+        {
+          "skillName": "Java",
+          "experience": 4,
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "John",
+      "phone": "+91 7667673882",
+      "skills": [
+        {
+          "skillName": "Angular",
+          "experience": 7,
+          "proficiency": "intermidate"
+        },
+        {
+          "skillName": "HTML",
+          "experience": 15,
+          "proficiency": "advanced"
+        },
+        {
+          "skillName": "LINQ",
+          "experience": 5,
+          "proficiency": "advanced"
+        }
+      ],
+      "contactPreference": "phone",
+      "email": "rmichaelbics@dell.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Antony",
+      "email": "antony@dell.com",
+      "phone": "9686858585",
+      "contactPreference": "email",
+      "skills": [
+        {
+          "skillName": "Oracle",
+          "experience": "4",
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "IOS ",
+          "experience": "5",
+          "proficiency": "advanced"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "fullName": "Vino",
+      "email": "vino@dell.com",
+      "phone": "234234324",
+      "contactPreference": "email",
+      "skills": [
+        {
+          "skillName": "Angular",
+          "experience": "4",
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "IOS ",
+          "experience": "4",
+          "proficiency": "advanced"
+        },
+        {
+          "skillName": "LINQ",
+          "experience": "25",
+          "proficiency": "intermidate"
+        }
+      ]
+    }
+  ]
+}
